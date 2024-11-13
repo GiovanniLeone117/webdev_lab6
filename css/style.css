@@ -20,9 +20,11 @@ color: #E35335;}
 margin-top: 40px;
 border-radius: 12px 12px 0px 0px;}
 
-{ background-color: #777;
-height: 80px;
-clear: both;}
+#footer { 
+  background-color: #777;
+  height: 80px;
+  clear: both;
+}
 
 { list-style-type: none;
 margin: 0;
