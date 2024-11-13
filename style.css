@@ -5,26 +5,20 @@ right: 10px;
 color: white;
 font-size: 1.8em;}
 
-{ text-decoration: none;
-position: absolute;
-top:-34px;
-right: 10px;
-color: white;
-font-size: 1.8em;}
+{ margin-top: 20px;
+margin-left: 20px;
+margin-bottom: 20px;}
 
-{ text-decoration: none;
-position: absolute;
-top:-34px;
-right: 10px;
-color: white;
-font-size: 1.8em;}
+{ position: absolute;
+left: 420px;
+top:5px;
+font-size: 3em;
+font-family: 'Devonshire', cursive;
+color: #E35335;}
 
-{ text-decoration: none;
-position: absolute;
-top:-34px;
-right: 10px;
-color: white;
-font-size: 1.8em;}
+{ position: relative;
+margin-top: 40px;
+border-radius: 12px 12px 0px 0px;}
 
 { background-color: #777;
 height: 80px;
